@@ -10,7 +10,7 @@ The simulator needs to install following package:
 ## Install & run
 
 ### Install
-`git clone https://github.com/MathRoboticsLab/Mdog-Simulator.git .`
+`git clone https://github.com/MathRoboticsLab/Mdog-Simulator.git`
 
 ### Dependent package
 
