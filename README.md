@@ -25,3 +25,10 @@ pip install numpy
 cd Mdog-Simulator
 python sample.py
 ```
+
+The robot can be controled by following keyboard command:
+```
+  i  
+j k l
+  ,
+```
