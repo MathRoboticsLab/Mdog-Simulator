@@ -21,5 +21,7 @@ pip install numpy
 
 ### Run sample code
 
-`cd Mdog-Simulator`
-`python sample.py`
+```
+cd Mdog-Simulator
+python sample.py
+```
