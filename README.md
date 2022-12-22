@@ -1,4 +1,6 @@
 # Mdog-Simulator
+This project was moved to [MRL organization account](https://github.com/NcuMathRoboticsLab/Mdog-Simulator) now.
+
 The quadruped robot simulator based on https://github.com/miguelasd688/4-legged-robot-model
 
 ## Requirement
